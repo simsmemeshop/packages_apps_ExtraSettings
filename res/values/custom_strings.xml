@@ -21,6 +21,7 @@
     <string name="power_menu_title">Power Menu</string>
     <string name="volume_keys_title">Volume Keys</string>
     <string name="lock_screen_title">Lock Screen</string>
+    <string name="notification_settings_title">Notification Settings</string>
 
     <!-- Sub Categories -->
     <string name="lock_screen_ui_title">Interface</string>
@@ -77,6 +78,10 @@
 
     <!-- qs tile titles visibilty -->
     <string name="qs_tile_title_visibility_title">Tile title</string> 
-    <string name="qs_tile_title_visibility_summary">Display title below each tile</string> 	
+    <string name="qs_tile_title_visibility_summary">Display title below each tile</string> 
+
+    <!-- Heads up options -->
+    <string name="less_boring_heads_up_title">Less boring heads up</string>
+    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app</string>	
 
 </resources>
