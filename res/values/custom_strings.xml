@@ -16,18 +16,7 @@
     <string name="extra_settings_title">Extra Settings</string>
 
     <!-- Categories -->
-    <string name="status_bar_title">Status Bar</string>
-    <string name="quick_settings_title">Quick Settings</string>
     <string name="navbar_title">Navigation Bar</string>
-    <string name="power_menu_title">Power Menu</string>
-    <string name="volume_keys_title">Volume Keys</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="notification_settings_title">Notification Settings</string>
-
-    <!-- Sub Categories -->
-    <string name="lock_screen_ui_title">Interface</string>
-    <string name="lock_screen_misc_title">Misc</string>
-    <string name="status_bar_battery_title">Battery Icon</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -45,67 +34,10 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
-    <!-- Power Menu -->
-    <string name="powermenu_reboot_title">Restart</string>
-    <string name="powermenu_advanced_restart_title">Advanced restart</string>
-    <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
-    <string name="powermenu_lockdown_title">Lockdown</string>
-    <string name="powermenu_screenshot_title">Screenshot</string>
-
-    <!-- Quick QS Pulldown -->
-    <string name="status_bar_quick_qs_pulldown">Quick QS pulldown</string>
-    <string name="quick_pulldown_none">Disabled</string>
-    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
-    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
-
-    <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
-
-    <!-- Lockscreen dt2s -->
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_lockscreen_summary">Double tap anywhere on the lockscreen to put the phone to sleep</string>
-
-    <!-- Lockscreen cover art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
-
-    <!-- QS rows and columns -->
-    <string name="qs_rows_columns_title">QS panel tweaks</string>
-    <string name="qs_rows_columns_summary">Customize qs rows and columns</string>
-    <string name="qs_rows_portrait_title">Tiles rows on portrait</string>
-    <string name="qs_rows_landscape_title">Tiles rows on landscape</string>
-    <string name="qs_columns_portrait_title">Tiles columns on portrait</string>
-    <string name="qs_columns_landscape_title">Tiles columns on landscape</string>
-
-    <!-- qs tile titles visibilty -->
-    <string name="qs_tile_title_visibility_title">Tile title</string> 
-    <string name="qs_tile_title_visibility_summary">Display title below each tile</string> 
-
-    <!-- less boring heads up -->
-    <string name="less_boring_heads_up_title">Less boring heads up</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app</string>	
-
-    <!-- Battery Styles -->
-    <string name="battery_style_title">Battery icon style</string>
-    <string name="battery_style_summary">Change the style of the status bar battery</string>
-    <string name="battery_style_port">Portrait</string>
-    <string name="battery_style_circle">Circle</string>
-    <string name="battery_style_dotted_circle">Dotted circle</string>
-    <string name="battery_style_big_circle">Big circle</string>
-    <string name="battery_style_big_dotted_circle">Big dotted circle</string>
-    <string name="battery_style_text">Text</string>
-    <string name="battery_style_hidden">Hidden</string>
-    <string name="battery_percent_hidden">Hidden</string>
-    <string name="show_battery_percent_title">Show battery percentage</string>
-    <string name="show_battery_percent_summary">Show battery level percentage near the icon</string>
-    <string name="battery_style_category_title">Battery level</string>
-    <string name="battery_percent_outside">Outside</string>
-    <string name="battery_percent_inside">Inside</string>
-
     <!-- SeekBar -->
     <string name="seekbar_no_default_value">No default value set</string>
     <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
     <string name="seekbar_default_value_already_set">Default value is already set</string>
     <string name="seekbar_default_string">Default</string>
+
 </resources>
